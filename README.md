@@ -2,6 +2,17 @@ Project Overview
 
 This project analyzes patient volume, revenue performance, and profitability trends of a healthcare facility using Microsoft Excel. The dashboard compares operational and financial performance between 2024 and 2025 and provides insights into service-wise growth and overall business performance.
 
+# Healthcare Revenue Analysis Dashboard (2024–2025)
+
+## Dashboard
+![Dashboard](DASHBOARD.png)
+
+## 2024 Analysis
+![2024 Analysis](REV_24.png)
+
+## 2025 Analysis
+![2025 Analysis](REV_25.png)
+
 Objectives
 Analyze yearly revenue and patient trends.
 Compare financial performance between 2024 and 2025.
